@@ -1,0 +1,15 @@
+D:\לימודים\שנה ב\c++\BravermanB\Dto\bin\Debug\net8.0\Dto.deps.json
+D:\לימודים\שנה ב\c++\BravermanB\Dto\bin\Debug\net8.0\Dto.dll
+D:\לימודים\שנה ב\c++\BravermanB\Dto\bin\Debug\net8.0\Dto.pdb
+D:\לימודים\שנה ב\c++\BravermanB\Dto\bin\Debug\net8.0\Dal.dll
+D:\לימודים\שנה ב\c++\BravermanB\Dto\bin\Debug\net8.0\Dal.pdb
+D:\לימודים\שנה ב\c++\BravermanB\Dto\obj\Debug\net8.0\Dto.csproj.AssemblyReference.cache
+D:\לימודים\שנה ב\c++\BravermanB\Dto\obj\Debug\net8.0\Dto.GeneratedMSBuildEditorConfig.editorconfig
+D:\לימודים\שנה ב\c++\BravermanB\Dto\obj\Debug\net8.0\Dto.AssemblyInfoInputs.cache
+D:\לימודים\שנה ב\c++\BravermanB\Dto\obj\Debug\net8.0\Dto.AssemblyInfo.cs
+D:\לימודים\שנה ב\c++\BravermanB\Dto\obj\Debug\net8.0\Dto.csproj.CoreCompileInputs.cache
+D:\לימודים\שנה ב\c++\BravermanB\Dto\obj\Debug\net8.0\Dto.csproj.Up2Date
+D:\לימודים\שנה ב\c++\BravermanB\Dto\obj\Debug\net8.0\Dto.dll
+D:\לימודים\שנה ב\c++\BravermanB\Dto\obj\Debug\net8.0\refint\Dto.dll
+D:\לימודים\שנה ב\c++\BravermanB\Dto\obj\Debug\net8.0\Dto.pdb
+D:\לימודים\שנה ב\c++\BravermanB\Dto\obj\Debug\net8.0\ref\Dto.dll

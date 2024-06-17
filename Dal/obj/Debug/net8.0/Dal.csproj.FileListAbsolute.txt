@@ -1,0 +1,12 @@
+D:\לימודים\שנה ב\c++\BravermanB\Dal\bin\Debug\net8.0\Dal.deps.json
+D:\לימודים\שנה ב\c++\BravermanB\Dal\bin\Debug\net8.0\Dal.dll
+D:\לימודים\שנה ב\c++\BravermanB\Dal\bin\Debug\net8.0\Dal.pdb
+D:\לימודים\שנה ב\c++\BravermanB\Dal\obj\Debug\net8.0\Dal.csproj.AssemblyReference.cache
+D:\לימודים\שנה ב\c++\BravermanB\Dal\obj\Debug\net8.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+D:\לימודים\שנה ב\c++\BravermanB\Dal\obj\Debug\net8.0\Dal.AssemblyInfoInputs.cache
+D:\לימודים\שנה ב\c++\BravermanB\Dal\obj\Debug\net8.0\Dal.AssemblyInfo.cs
+D:\לימודים\שנה ב\c++\BravermanB\Dal\obj\Debug\net8.0\Dal.csproj.CoreCompileInputs.cache
+D:\לימודים\שנה ב\c++\BravermanB\Dal\obj\Debug\net8.0\Dal.dll
+D:\לימודים\שנה ב\c++\BravermanB\Dal\obj\Debug\net8.0\refint\Dal.dll
+D:\לימודים\שנה ב\c++\BravermanB\Dal\obj\Debug\net8.0\Dal.pdb
+D:\לימודים\שנה ב\c++\BravermanB\Dal\obj\Debug\net8.0\ref\Dal.dll
